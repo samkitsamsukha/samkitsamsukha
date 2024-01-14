@@ -11,7 +11,7 @@ Aspiring Full Stack Developer | Learning Data Structures and Algorithms
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/samsukhasamkit)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://your-portfolio-website.com)
 
-### Skills
+### Languages and Technologies
 - HTML5, CSS3, JavaScript
 - C++, Java
 - Data Structures and Algorithms (Beginner)
