@@ -18,5 +18,6 @@ Aspiring Full Stack Developer | Learning Data Structures and Algorithms
 - Git, GitHub
 
 ### Featured Projects
-- [60 Days 60 Projects](https://github.com/samkitsamsukha/60-days-60-projects)
+- [60 Days 60 Projects](https://github.com/samkitsamsukha/Simple-Projects-using-HTML--CSS--JS)
+- [</> CodeHelp](https://github.com/samkitsamsukha/CodeHelp)
 
