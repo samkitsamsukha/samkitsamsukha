@@ -2,7 +2,7 @@
 
 Aspiring Full Stack Developer | Learning Data Structures and Algorithms
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/samkitsamsukha?theme=nord&font=Grandstander&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/samkitsamsukha?theme=dark&font=Belleza&ext=heatmap)
 
 <!--[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=samkitsamsukha)-->
 
