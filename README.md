@@ -17,4 +17,4 @@ Aspiring Full Stack Developer | Learning Data Structures and Algorithms
 ![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsamkitsamsukha&logo=leetcode&logoColor=yellow)
 
 ### Languages and Technologies
-![](https://skillicons.dev/icons?i=html,css,javascript,vscode,github,git,cpp,tailwind,java,bootstrap,nodejs,c,vite,react,babel,mysql)
+![](https://skillicons.dev/icons?i=html,css,javascript,vscode,github,git,cpp,tailwind,java,bootstrap,nodejs,c,vite,react,babel,mysql,next)
